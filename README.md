@@ -1,5 +1,5 @@
 # Need My Ping
-Latest version, changes and downloads can be found on the <a href="https://github.com/cameron2134/backupclicker/releases/latest">Releases</a> page
+Latest version, changes and downloads can be found on the <a href="https://github.com/cameron2134/NeedMyPing/releases/latest">Releases</a> page
 
 
 
